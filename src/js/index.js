@@ -1,7 +1,7 @@
 /* 
 --> Primeiro precisamos linkar esse documento com o index.html pra funfa.
 
-
+Teste teste teste
 
 Objetivo 1 - quando o usuário clicar no botão de seleção de plataformas deve abrir uma caixa com os botões de seleção de plataforma
 
